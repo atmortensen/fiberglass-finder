@@ -74,4 +74,4 @@ const run = async () => {
 
 run();
 
-setInterval(run, 1000 * 60 * 60);
+setInterval(run, 1000 * 60 * 10);
